@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/35723a72-ae66-462e-a93d-f0318c754a6b
+
+![mastermind](https://github.com/user-attachments/assets/9b3a094f-d7da-4280-9aa8-7809972e6df2)
 # Mastermind Color Guessing Game
 # Description
 This project is a Pygame-based implementation of the popular Mastermind game. The objective of the game is to guess a secret color code within a limited number of tries. Players will select colors from a set of options and receive feedback on the correctness of their guesses.
