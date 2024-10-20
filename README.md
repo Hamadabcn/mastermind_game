@@ -28,7 +28,7 @@ This project is a Pygame-based implementation of the popular Mastermind game. Th
 # Installation
 1. Clone this repository or download the files manually: git clone https://github.com/Hamadabcn/mastermind_game.git
 2. Install the required Pygame package: pip install pygame
-3. Run the game: python mastermind.py
+3. Run the game: python main.py
 
 # How to Play
 1. Launch the game by running the mastermind.py file.
