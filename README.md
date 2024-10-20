@@ -31,7 +31,7 @@ This project is a Pygame-based implementation of the popular Mastermind game. Th
 3. Run the game: python main.py
 
 # How to Play
-1. Launch the game by running the mastermind.py file.
+1. Launch the game by running the main.py file.
 2. Use the color buttons on the right to select your guess.
 3. Once you've selected 4 colors, press Enter to submit your guess.
 4. Try to guess the secret code in 10 tries or less.
